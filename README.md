@@ -12,7 +12,10 @@
   <img align="center" alt="TMix-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="TMix-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+ ##
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estou estudando Python e C#
 - 😄 Pronomes: ele/dele
+
+ <a href="https://www.linkedin.com/in/jephersson-antonio-taborda-de-souza-582a3a1b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
